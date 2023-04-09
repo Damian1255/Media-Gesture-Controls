@@ -1,4 +1,4 @@
-# Media-Guesture-Controls
+# Media-Gesture-Controls
 :hand: = Play/Pause
 :+1: = Volume Up
 :-1: = Volume Down
