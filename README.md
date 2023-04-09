@@ -1,7 +1,6 @@
 # Media-Guesture-Controls
-
-Stop = Play/Pause
-Thumbs Up = Volume Up
-Thumbs Down = Volume Down
-Peace = Next
-Rock = Previous
+:hand: = Play/Pause
+:+1: = Volume Up
+:-1: = Volume Down
+:v: = Next
+:metal: = Previous
