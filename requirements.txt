@@ -1,6 +1,5 @@
-cv2
-win32api
-win32con
+opencv-python
+pywin32
 numpy
 mediapipe
 tensorflow
